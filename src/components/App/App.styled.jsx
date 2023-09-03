@@ -8,7 +8,6 @@ export const MainContainer = styled.div`
   font-size: 40px;
   color: #010101;
 `;
-
 export const Section = styled.div`
   margin: 20px;
   padding: 20px;
