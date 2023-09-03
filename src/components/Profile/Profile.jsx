@@ -10,6 +10,7 @@ import {
   StatsQuantity,
 } from './Profile.styled';
 import PropTypes from 'prop-types';
+
 export default function Profile({ avatar, username, tag, location, stats }) {
   return (
     <Container className="profile">
