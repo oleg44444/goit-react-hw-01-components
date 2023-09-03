@@ -1,7 +1,7 @@
 import { MainContainer, Section } from './App.styled';
 import React from 'react';
 import user from '../../path/to/user.json';
-import data from 'path/to/data.json';
+import data from '../../path/to/data.json';
 import friends from '../../path/to/friends.json';
 import transactions from '../../path/to/transactions.json';
 import Profile from '../Profile/Profile';
